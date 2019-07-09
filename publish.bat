@@ -19,6 +19,22 @@ wsimport -keep http://localhost:8080/server/TempAndGasDensityDetAlarm?wsdl
 wsimport -keep http://localhost:8080/server/ComprehScore?wsdl
 wsimport -keep http://localhost:8080/server/StopErrorInsert?wsdl
 wsimport -keep http://localhost:8080/server/FireDetDataError?wsdl
+wsimport -keep http://localhost:8080/server/GasDensityDetDataError?wsdl
+wsimport -keep http://localhost:8080/server/DustDensityDetDataError?wsdl
+wsimport -keep http://localhost:8080/server/EquipEarthDetDataError?wsdl
+wsimport -keep http://localhost:8080/server/FirerQuantityDetDataError?wsdl
+wsimport -keep http://localhost:8080/server/HumidityDetDataError?wsdl
+wsimport -keep http://localhost:8080/server/LiftingPersonIllegDetDataError?wsdl
+wsimport -keep http://localhost:8080/server/PersonClothesDetDataError?wsdl
+wsimport -keep http://localhost:8080/server/RoomOverloadDetDataError?wsdl
+wsimport -keep http://localhost:8080/server/TempDetDataError?wsdl
+wsimport -keep http://localhost:8080/server/TestPersonIllegDetDataError?wsdl
+wsimport -keep http://localhost:8080/server/AGVDetDataError?wsdl
+wsimport -keep http://localhost:8080/server/AutoEquipPersonIllegDetDataError?wsdl
+wsimport -keep http://localhost:8080/server/SJWL_W1?wsdl
+wsimport -keep http://localhost:8080/server/SJWL_W2?wsdl
+wsimport -keep http://localhost:8080/server/SJWL_A?wsdl
+wsimport -keep http://localhost:8080/server/SJWL_B?wsdl
 exit
 
 
